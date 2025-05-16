@@ -1,29 +1,34 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Hi+👋!+I'm+Shaanif+Ahmed;A+Developer+by+day+🌞;Bug+Fixer+by+night+🌙;Coding+from+my+secret+lair+🛸" alt="Intro Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Hi+👋!+I'm+Shaanif+Ahmed;Coding+since+my+keyboard+was+plastic;Debugger+by+day...+keyboard+smasher+by+night+😤;Welcome+to+my+chaotic+brain+🧠💥" alt="Intro Typing" />
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShaanifFaqui/ShaanifFaqui/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 </p>
 
 ---
 
-### 🚀 **Current Missions**
+### 🤯 **What Am I Up To?**
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7E3ACE&center=true&vCenter=true&width=800&lines=🔭+Working+on+Full-stack+apps,+SaaS+platforms+%26+AI+tools;🌱+Learning+Next.js,+TypeScript,+AI+APIs;💬+Ask+me+about+JavaScript,+React,+Python,+SaaS;🎯+Building+tools+that+automate+life+🤖" alt="Missions Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7E3ACE&center=true&vCenter=true&width=800&lines=🔭+Building+SaaS+Apps+That+Probably+Don’t+Break;🧠+Learning+AI+Faster+than+ChatGPT’s+Upgrade;💬+Ask+me+anything+except+math+homework;🎯+Mission%3A+Automate+life+so+I+can+nap+🛌💤" alt="Funny Mission" />
 </p>
 
 ---
 
-### ⚔️ **Tech Stack Mastery**
+### ⚙️ **Tech Stack aka My Superpowers**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,mongodb,mysql,java,git,github&theme=dark" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
+</p>
+
 ---
 
-### 📊 **GitHub Stats**
+### 📊 **Stats That Prove I Don’t Just Scroll Reels**
 
 <div align="center">
 
@@ -36,7 +41,7 @@
 
 ---
 
-### 🧠 **AI Playground**
+### 🤖 **AI Playground – Let's Get Nerdy**
 
 <p align="center">
   <a href="https://codepen.io/kocsten/full/rNWVyEy" target="_blank">
@@ -44,17 +49,21 @@
   </a>
 </p>
 
----
-
-### 🧭 **Philosophy Matrix**
-
-> _"First, solve the problem. Then, write the code." – John Johnson_  
-> _"Code is not just syntax — it's the **language of machines** we teach to think."_  
-> _⚡ Fun fact: I debug in my dreams 💭_
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150" />
+</p>
 
 ---
 
-### 🌐 **Connect with Me**
+### 💡 **Quotes I Live By (Or Pretend To)**
+
+> 🧠 _"First, solve the problem. Then, write the code." – John Johnson_  
+> 🧰 _"If it works, don’t touch it." – Ancient Developer Proverb_  
+> 🤷 _"Why fix bugs when you can comment them out?" – Me, at 3AM_  
+
+---
+
+### 🌐 **Find Me Before AI Clones Me**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shaanif-ahmed-765934233">
@@ -67,12 +76,12 @@
 
 ---
 
-### 🌍 **Visitors Map**
+### 🌍 **Global Vibes**
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Rotating_earth_%28large%29.gif" height="120" />
   <br>
-  <i>Visualizing global visitors in real-time... 🌐</i>
+  <i>People around the world are silently judging my code 😅</i>
 </p>
 
 ---
@@ -80,5 +89,9 @@
 ### 📟 **Final Transmission**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=🧠+Booting+down...+until+next+innovation.;💼+Goal%3A+Earn+while+I+sleep+%F0%9F%A4%96;💡+Stay+curious,+code+fearlessly." alt="Footer Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=💤+System+sleeping...+until+coffee.;⚡+Goal:+Earn+while+I+sleep.;💡+Stay+curious,+build+ruthlessly." />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300" />
 </p>
