@@ -19,7 +19,7 @@
 ### ⚙️ **Tech Stack aka My Superpowers**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,mongodb,mysql,java,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,python,mongodb,mysql,java,git,github&theme=dark" />
 </p>
 
 <p align="center">
