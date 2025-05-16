@@ -1,97 +1,27 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Hi+👋!+I'm+Shaanif+Ahmed;Coding+since+my+keyboard+was+plastic;Debugger+by+day...+keyboard+smasher+by+night+😤;Welcome+to+my+chaotic+brain+🧠💥" alt="Intro Typing" />
-</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
-</p>
-
----
-
-### 🤯 **What Am I Up To?**
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7E3ACE&center=true&vCenter=true&width=800&lines=🔭+Building+SaaS+Apps+That+Probably+Don’t+Break;🧠+Learning+AI+Faster+than+ChatGPT’s+Upgrade;💬+Ask+me+anything+except+math+homework;🎯+Mission%3A+Automate+life+so+I+can+nap+🛌💤" alt="Funny Mission" />
-</p>
-
----
-
-### ⚙️ **Tech Stack aka My Superpowers**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,python,mongodb,mysql,java,git,github&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
-</p>
-
----
-
-### 📊 **Stats That Prove I Don’t Just Scroll Reels**
-
+<!-- 🚀 Launch Sequence Initiated -->
 <div align="center">
-
-| <img src="https://github-readme-stats.vercel.app/api?username=ShaanifFaqui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="200"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaanifFaqui&layout=compact&theme=tokyonight&langs_count=8" height="200"/> |
-|---|---|
-
-<img src="https://streak-stats.demolab.com?user=ShaanifFaqui&theme=tokyonight&hide_border=true" height="200"/>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=1AF7FF&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%A4%96+Professional+Code+Chef;%F0%9F%92%BB+Full-Time+Tech+Wizard;%E2%9A%99%EF%B8%8F+Part-Time+Coffee+Converter;%F0%9F%A7%A0+Certified+Ctrl+S+Addict" alt="Typing SVG" />
+  <br>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
 </div>
 
 ---
 
-### 🤖 **AI Playground – Let's Get Nerdy**
-
-<p align="center">
-  <a href="https://codepen.io/kocsten/full/rNWVyEy" target="_blank">
-    <img src="https://img.shields.io/badge/Play-AI%20TicTacToe%20Game-7E3ACE?style=for-the-badge&logo=codepen&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150" />
-</p>
-
----
-
-### 💡 **Quotes I Live By (Or Pretend To)**
-
-> 🧠 _"First, solve the problem. Then, write the code." – John Johnson_  
-> 🧰 _"If it works, don’t touch it." – Ancient Developer Proverb_  
-> 🤷 _"Why fix bugs when you can comment them out?" – Me, at 3AM_  
-
----
-
-### 🌐 **Find Me Before AI Clones Me**
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shaanif-ahmed-765934233">
-    <img src="https://img.shields.io/badge/-LinkedIn-7E3ACE?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/shanzz_ify">
-    <img src="https://img.shields.io/badge/-Instagram-7E3ACE?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🌍 **Global Vibes**
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Rotating_earth_%28large%29.gif" height="120" />
+<!-- 📊 Stats That Don't Lie -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShaanifFaqui&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=ShaanifFaqui&theme=radical&hide_border=true" width="48%"/>
   <br>
-  <i>People around the world are silently judging my code 😅</i>
-</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShaanifFaqui&theme=react-dark&hide_border=true&area=true&custom_title=My%20Code%20Heartbeat&bg_color=00000000" width="90%">
+</div>
 
 ---
 
-### 📟 **Final Transmission**
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=💤+System+sleeping...+until+coffee.;⚡+Goal:+Earn+while+I+sleep.;💡+Stay+curious,+build+ruthlessly." />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300" />
-</p>
+### 🧑🍳 Code Kitchen
+```brainfuck
+[ Daily Coding Recipe ]
+=========================
+1 cup JavaScript          3 tsp TypeScript
+2 tbsp React              A pinch of Vue
+1 lb Node.js              ½ gallon Python
+Bake at 1000°C            Debug until golden brown
