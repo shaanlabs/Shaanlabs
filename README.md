@@ -25,9 +25,9 @@ Hey, I’m Shaanif Ahmed, the coder who’d rather be napping than debugging. I 
 
 ---
 
-## 🛠️ Tech Stack (I Use These… Sometimes)
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,java,html,css,js,git,linux,php,github&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,django,java,c,html,css,js,git,linux,docker,php,mysql,github&theme=dark" alt="Tech Stack Icons" />
 </p>
 
 - Secret Weapon: Ctrl+C, Ctrl+V, and a prayer
