@@ -1,12 +1,12 @@
 <!-- Animated Typing Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=28&pause=1000&color=FF6347&center=true&vCenter=true&width=600&lines=Yo+%F0%9F%98%8E+I'm+Shaanif+Ahmed;Code+when+I'm+not+snoozing;Master+of+Copy-Paste;Welcome+to+my+lazy+domain" alt="Intro Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=28&pause=1000&color=FF6347&center=true&vCenter=true&width=600&lines=Yo+%F0%9F%98%8E+I'm+Shaanif+Ahmed;Code+when+I'm+not+snoozing;Just+a+simple+funny+coder;Welcome+to+my+lazy+domain" alt="Intro Typing" />
 </div>
 
 <!-- Fun Animated GIFs -->
 <div align="center">
-  <img src="https://media.giphy.com/media/8VrtCswXgN6EM/giphy.gif" width="350" alt="Sleepy Coder" />
-  <img src="https://media.giphy.com/media/26xBI73gWquFlrGhy/giphy.gif" width="300" alt="Lazy Coding" />
+  <img src="https://media.giphy.com/media/3o7aCUz8jF2h52y7Vm/giphy.gif" width="350" alt="Sleepy Coder" />
+  <img src="https://media.giphy.com/media/3orieW7bS6f8kW6UPa/giphy.gif" width="300" alt="Lazy Coding" />
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
 ---
 
 ## 😴 About Me
-Hey, I'm **Shaanif Ahmed**, the coder who's probably debugging while you're reading this. I build stuff when I'm not scrolling memes, watching anime, or finding new ways to procrastinate. I'm into tech, automation, gaming, and making jokes about my own code. My life goal? Write code that doesn't make future me question my life choices. I'm basically a developer who roasts himself before anyone else can. 🔥
+Hey, I'm **Shaanif Ahmed**, just a simple coder who's probably debugging while you're reading this. I build stuff when I'm not scrolling memes, watching anime, or finding new ways to procrastinate. I'm into tech, automation, gaming, and making jokes about my own code. My life goal? Write code that doesn't make future me question my life choices. I'm basically just a funny developer who likes to roast himself. 😄
 
 - 😴 **Currently:** Actually working on something (shocking, I know)
 - 🧠 **Learning:** New ways to break my code in creative ways
