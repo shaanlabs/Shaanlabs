@@ -1,88 +1,114 @@
 <!-- Animated Typing Banner -->
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=28&pause=1000&color=FF6347&center=true&vCenter=true&width=600&lines=Yo+%F0%9F%98%8E+I'm+Shaanif+Ahmed;Code+when+I'm+not+snoozing;King+of+Copy-Paste;Welcome+to+my+lazy+domain" alt="Intro Typing" />
-</p>
+</div>
 
 <!-- Fun Animated GIFs -->
-<p align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/8VrtCswXgN6EM/giphy.gif" width="350" alt="Sleepy Coder" />
   <img src="https://media.giphy.com/media/26xBI73gWquFlrGhy/giphy.gif" width="300" alt="Lazy Coding" />
-</p>
+</div>
 
-<p align="center">
-  <b>Warning: This profile runs on 80% naps and 20% Stack Overflow 😴</b>
-</p>
+<div align="center">
+  <b>⚠️ Warning: This profile runs on 80% naps and 20% Stack Overflow 😴</b>
+</div>
 
 ---
 
 ## 😴 About Me
-Hey, I’m Shaanif Ahmed, the coder who’d rather be napping than debugging. I build stuff when I’m not scrolling memes or dreaming about pizza. I’m into tech, automation, and avoiding meetings. My life goal? Write one script to do my job so I can sleep forever.
+Hey, I'm **Shaanif Ahmed**, the coder who's probably debugging while you're reading this. I build stuff when I'm not scrolling memes, watching anime, or finding new ways to procrastinate. I'm into tech, automation, gaming, and making jokes about my own code. My life goal? Write code that doesn't make future me question my life choices. I'm basically a developer who roasts himself before anyone else can. 🔥
 
-- 😴 Currently: Procrastinating on a pull request
-- 🧠 Learning: How to fake productivity in Zoom calls
-- 💤 Mission: Automate everything, including this bio
-- 🤡 Fun Fact: I once fixed a bug by restarting my laptop (true story)
+- 😴 **Currently:** Actually working on something (shocking, I know)
+- 🧠 **Learning:** New ways to break my code in creative ways
+- 💤 **Mission:** Write code that doesn't make me facepalm later
+- 🤡 **Fun Fact:** I once spent 2 hours debugging a missing semicolon (true story, I'm not proud)
+- 🎭 **Special Skill:** Making terrible code look intentional
+- 🕐 **Best Coding Time:** When I should be sleeping (classic developer move)
 
 ---
 
 ## 🛠️ Tech Stack
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=python,django,java,c,html,css,js,git,linux,docker,php,mysql,github&theme=dark" alt="Tech Stack Icons" />
-</p>
+</div>
 
-- Secret Weapon: Ctrl+C, Ctrl+V, and a prayer
-- Allergic To: Documentation and early mornings
+- **Secret Weapon:** Stack Overflow and a lot of trial and error 🙏
+- **Allergic To:** Documentation and meetings that could've been emails 🌅
+- **Coding Philosophy:** "If it works, don't touch it" 🤷‍♂️
+- **Debugging Method:** Console.log everything, then forget to remove them
+
 ---
 
-## 📊 GitHub Stats (Evidence I’m Not Totally Useless)
-<p align="center">
+## 📊 GitHub Stats (Evidence I'm Not Totally Useless)
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShaanifFaqui&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=ShaanifFaqui&theme=gruvbox&hide_border=true" height="180" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaanifFaqui&layout=donut&theme=gruvbox&hide_border=true&langs_count=6" height="180" alt="Top Languages" />
-</p>
+</div>
 
-<p align="center"><i>Commits at 3 AM because sleep is for the weak (or me, tomorrow).</i></p>
-
----
-
-## 😂 Fun Zone (Where I’m Actually Awake)
-- **Meme API Side Project:** Check It (memes > deadlines)
-- **Nap Scheduler:** Set for “all day,” wake up confused
-- **Rubber Duck Therapy:** <img src="https://media.giphy.com/media/3o7aCUz8jF2h52y7Vm/giphy.gif" width="40" alt="Rubber Duck"> My duck’s heard all my bad code rants
-- **Push to Prod on Monday:** Nah, I’ll do it… never
+<div align="center">
+  <i>Commits at 3 AM because sleep is for the weak (or me, tomorrow).</i>
+</div>
 
 ---
 
-## 🛌 Lazy Learning & Chaos
-- 🎮 **Code Game:** Write one function, reward myself with a 2-hour nap
-- 🕹️ **Challenge:** Fork this README, slap in a sleepy sloth GIF, and tag me. I’ll merge it… in a week
-- 📚 **Learning (When I’m Not Dozing):**
-  - JavaScript 30 (did 3/30, good enough)
-  - CS50 on YouTube (watched intro, fell asleep)
-  - CSS Animations for Fun
-- 🍕 **Best Coding Snack:** Cold pizza from last night
-- 🏓 **Ping Me For:** Meme trades, code golf, or “why’s my loop infinite?” therapy
+## 😂 Fun Zone (Where I'm Actually Awake)
+- **🎮 Current Project:** Something that will probably break in production
+- **😴 Sleep Schedule:** What's that? (I'm a developer, remember?)
+- **🦆 Rubber Duck Therapy:** <img src="https://media.giphy.com/media/3o7aCUz8jF2h52y7Vm/giphy.gif" width="40" alt="Rubber Duck"> My duck's heard all my code rants (it's seen things)
+- **📅 Deployment Strategy:** "It works on my machine" (famous last words)
+- **🎯 Current Goal:** Write code that doesn't make me question my career choices
+- **🤖 AI Assistant:** "Hey Google, why is my code not working?" (daily ritual)
+- **🎬 Anime Status:** Currently watching something that's probably affecting my sleep schedule
+- **🎮 Gaming Status:** "Just one more game" (said 5 hours ago)
 
 ---
 
-## 🏆 Achievements (I’m Kinda Proud)
-- Survived a 50-line regex disaster
-- Fixed a bug by googling for 3 hours
-- Unofficial “Longest Nap During a Hackathon” champion
-- Master of “It works on my machine” excuses
-- Once wrote a “Hello World” that ran without errors (no one saw)
+## 🛌 Learning & Chaos (Mostly Chaos)
+- 🎮 **Code Game:** Write one function, spend 3 hours debugging it
+- 🕹️ **Challenge:** Fork this README, add something funny, and tag me. I'll probably merge it... eventually
+- 📚 **Learning (When I'm Not Breaking Things):**
+  - JavaScript (still learning, still confused)
+  - Python (it's supposed to be easy, right?)
+  - CSS (why does centering a div require a PhD?)
+  - React (because everyone else is doing it)
+- 🍿 **Best Coding Snack:** Whatever's within arm's reach
+- 🏓 **Ping Me For:** Code help, memes, anime recommendations, or "why is this not working?" rants
+- 🎪 **Special Talent:** Making simple bugs look like complex problems
+- 🎬 **Anime Recommendations:** Always happy to share (even if you didn't ask)
+- 🎮 **Gaming Sessions:** "I'll just play for 30 minutes" (turns into 4 hours)
+
+---
+
+## 🏆 Achievements (I'm Kinda Proud)
+- 🏅 Survived a regex disaster (and lived to tell the tale)
+- 🔍 Fixed a bug by googling for 2 hours (Stack Overflow is my hero)
+- 😴 Successfully avoided meetings for weeks (it's an art form)
+- 💻 Master of "It works on my machine" excuses
+- 🌍 Wrote a "Hello World" that actually worked (once)
+- 🎯 Successfully deployed something without breaking production (miracle)
+- 🧠 Know enough to be dangerous (but not enough to be useful)
+- 🎪 Made a calculator that works (most of the time)
+- 🎬 Watched an entire anime season in one sitting (no regrets)
+- 🎮 Beat a boss after 47 attempts (persistence is key)
 
 ---
 
 ## 💡 Quotes I Vibe With
-> "Code’s not broken if you don’t test it." – Me, probably
+> *"Code's not broken if you don't test it."* – Me, probably
 > 
-> "Sleep first, debug later." – Shaanif’s Life Mantra
+> *"Sleep first, debug later."* – Shaanif's Life Mantra
+> 
+> *"If debugging is the process of removing bugs, then programming must be the process of putting them in."* – Edsger Dijkstra (my spirit animal)
+> 
+> *"The best error message is the one that never shows up."* – Also me, definitely
+> 
+> *"I'm not lazy, I'm just conserving energy."* – My excuse for everything
 
 ---
 
-## 🌐 Connect with Me (If I’m Awake)
-<p align="center">
+## 🌐 Connect with Me (If I'm Awake)
+<div align="center">
   <a href="https://www.linkedin.com/in/shaanif-ahmed-765934233" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-FF6347?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -92,12 +118,35 @@ Hey, I’m Shaanif Ahmed, the coder who’d rather be napping than debugging. I 
   <a href="mailto:shaaniffakki@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-FF6347?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
+  <a href="https://github.com/ShaanifFaqui" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-FF6347?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/3orieW7bS6f8kW6UPa/giphy.gif" height="80" alt="Sleepy Cat" />
-</p>
+</div>
 
-<p align="center">
-  <i>Coding for a world where naps are mandatory.</i>
-</p>
+<div align="center">
+  <i>💤 Coding for a world where naps are mandatory.</i>
+</div>
+
+---
+
+## 🎭 Random Facts About Me
+- **🎪 I once spent 2 hours debugging a CSS issue that was just a missing semicolon**
+- **🤖 My rubber duck has heard more code explanations than my actual colleagues**
+- **📱 I have unread messages from recruiters (I'm popular, I swear)**
+- **🎮 My IDE has more extensions than I actually use**
+- **🌙 I'm most productive when I should be sleeping**
+- **🎯 I can spot a missing bracket from across the room**
+- **🍕 I once tried to order food through the terminal (it didn't work)**
+- **🎪 I have a collection of error messages that I find oddly beautiful**
+- **🎬 I can recite anime openings from memory (it's a talent, okay?)**
+- **🎮 I've rage-quit games more times than I've completed them**
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShaanifFaqui&style=flat-square&color=FF6347" alt="Profile Views" />
+</div>
