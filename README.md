@@ -1,6 +1,6 @@
 <!-- Animated Typing Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=28&pause=1000&color=FF6347&center=true&vCenter=true&width=600&lines=Yo+%F0%9F%98%8E+I'm+Shaanif+Ahmed;Code+when+I'm+not+snoozing;King+of+Copy-Paste;Welcome+to+my+lazy+domain" alt="Intro Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=28&pause=1000&color=FF6347&center=true&vCenter=true&width=600&lines=Yo+%F0%9F%98%8E+I'm+Shaanif+Ahmed;Code+when+I'm+not+snoozing;Master+of+Copy-Paste;Welcome+to+my+lazy+domain" alt="Intro Typing" />
 </div>
 
 <!-- Fun Animated GIFs -->
@@ -124,7 +124,7 @@ Hey, I'm **Shaanif Ahmed**, the coder who's probably debugging while you're read
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3orieW7bS6f8kW6UPa/giphy.gif" height="80" alt="Sleepy Cat" />
+  <img src="https://media.giphy.com/media/3o7aCUz8jF2h52y7Vm/giphy.gif" height="80" alt="Sleepy Cat" />
 </div>
 
 <div align="center">
