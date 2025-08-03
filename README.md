@@ -41,7 +41,7 @@ Hey, I'm **Shaanif Ahmed**, just a simple coder who's probably debugging while y
 
 ## 📊 GitHub Stats (Evidence I'm Not Totally Useless)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShaanifFaqui&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaanlabs&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=ShaanifFaqui&theme=gruvbox&hide_border=true" height="180" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaanifFaqui&layout=donut&theme=gruvbox&hide_border=true&langs_count=6" height="180" alt="Top Languages" />
 </div>
