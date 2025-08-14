@@ -1,7 +1,4 @@
 <!-- Animated Typing Banner -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=28&pause=1000&color=FF6347&center=true&vCenter=true&width=600&lines=Yo+%F0%9F%98%8E+I'm+Shaanif+Ahmed;Code+when+I'm+not+snoozing;Just+a+simple+funny+coder;Welcome+to+my+lazy+domain" alt="Intro Typing" />
-</div>
 
 <div align="center">
   <b>⚠️ Warning: This profile runs on 80% naps and 20% Stack Overflow 😴</b>
