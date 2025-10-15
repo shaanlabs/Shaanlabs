@@ -20,12 +20,12 @@ When I’m not coding, you’ll often find me exploring new tools, watching anim
 
 ### 👨‍💻 Languages  
 <p align="left">  
-  <img src="https://skillicons.dev/icons?i=python,java,js,php,html,css" height="40" alt="Languages" />  
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" height="40" alt="Languages" />  
 </p>  
 
 ### ⚙️ Frameworks & Libraries  
 <p align="left">  
-  <img src="https://skillicons.dev/icons?i=django,flask,nodejs,express,numpy,pandas,matplotlib,tkinter,opencv" height="40" alt="Frameworks & Libraries" />  
+  <img src="https://skillicons.dev/icons?i=django,flask,nodejs,express,react,numpy,pandas,opencv" height="40" alt="Frameworks & Libraries" />  
 </p>  
 
 ### 🗄️ Databases  
@@ -35,10 +35,11 @@ When I’m not coding, you’ll often find me exploring new tools, watching anim
 
 ### 🚀 Tools & Platforms  
 <p align="left">  
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,postman,androidstudio,ollama" height="40" alt="Tools & Platforms" />
- 
+  <img src="https://skillicons.dev/icons?i=git,gitlab,docker,linux,postman,vscode,androidstudio" height="40" alt="Tools & Platforms" />  
+  <img src="https://img.icons8.com/glyph-neue/64/ffffff/github.png" height="40" alt="GitHub" />  
 </p>  
 
+---
 
 ## 📊 GitHub Stats & Activity  
 
@@ -69,7 +70,6 @@ When I’m not coding, you’ll often find me exploring new tools, watching anim
 </div>  
 
 ---
-
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shaanlabs&style=flat-square&color=blueviolet" alt="Profile Views" />
