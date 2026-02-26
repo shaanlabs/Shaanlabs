@@ -36,57 +36,90 @@ me = ShaanifAhmed()
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skill Levels
 
 ### 🧠 Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css" height="45" />
-</p>
+
+| Language | Proficiency |
+|---|---|
+| 🐍 Python | `████████████████████` **Expert** |
+| 🌐 JavaScript | `████████████████░░░░` **Advanced** |
+| ☕ Java | `██████████████░░░░░░` **Intermediate** |
+| 🎨 HTML / CSS | `████████████████████` **Expert** |
+| 🔷 TypeScript | `████████████░░░░░░░░` **Intermediate** |
 
 ### ⚙️ Frameworks & Libraries
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,fastapi" height="45" />
-</p>
+
+| Framework | Proficiency |
+|---|---|
+| ⚛️ React / Next.js | `████████████████░░░░` **Advanced** |
+| 🟢 Node.js / Express | `████████████████░░░░` **Advanced** |
+| 🎸 Django | `████████████████████` **Expert** |
+| 🌶️ Flask / FastAPI | `██████████████░░░░░░` **Intermediate** |
+| 👁️ OpenCV | `████████████░░░░░░░░` **Intermediate** |
 
 ### 🗄️ Databases
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,redis" height="45" />
 </p>
 
 ### ☁️ Cloud & DevOps
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,nginx,aws,vercel,githubactions" height="45" />
 </p>
 
-### 🧰 Tools & Platforms
+### 🧰 Tools
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,androidstudio,figma" height="45" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-> ⚡ *Stats powered by [github-readme-stats](https://github.com/anuradhey/github-readme-stats) — if images don't load, GitHub's rate limit is hit. Fork the repo and use your own Vercel deploy for 100% uptime.*
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=shaanlabs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaanlabs&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
-    </td>
-  </tr>
-</table>
+> *Snake eats my contributions — GitHub Actions regenerates it every 24hrs automatically.*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaanlabs/shaanlabs/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shaanlabs/shaanlabs/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/shaanlabs/shaanlabs/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=shaanlabs&theme=tokyonight&hide_border=true&mode=weekly" width="60%"/>
-</div>
+> ⚙️ **To enable the snake:** Add this GitHub Actions workflow to your repo:
+>
+> **File:** `.github/workflows/snake.yml`
+> ```yaml
+> name: 🐍 Generate Snake Animation
+>
+> on:
+>   schedule:
+>     - cron: "0 0 * * *"   # Every day at midnight
+>   workflow_dispatch:
+>
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk/svg-only@v3
+>         with:
+>           github_user_name: shaanlabs
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
 
 ---
 
@@ -100,48 +133,20 @@ me = ShaanifAhmed()
 
 ## ⚙️ GitHub Automation & Workflows
 
-> 🔧 *I use GitHub Actions to automate my dev workflows — from CI/CD pipelines to keeping this README fresh automatically.*
+> 🔧 *I use GitHub Actions to automate dev workflows — CI/CD, auto-labeling, dependency management & more.*
 
-```yaml
-# .github/workflows/update-readme.yml
-name: 🔄 Auto Update Profile README
-
-on:
-  schedule:
-    - cron: '0 */6 * * *'   # Every 6 hours
-  workflow_dispatch:          # Manual trigger anytime
-
-jobs:
-  update:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-
-      - name: 📊 Update GitHub Activity
-        uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: 🚀 Commit & Push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "🤖 Auto-update README"
-          git push
-```
-
-### 🚀 Automation Features
+### 🚀 Workflow Features
 
 | Feature | Tool / Action | What it does |
 |---|---|---|
-| ⏰ **Scheduled Updates** | GitHub Actions cron | Auto-refreshes README every 6 hrs |
+| 🐍 **Snake Animation** | `Platane/snk` | Auto-generates contribution snake daily |
+| ⏰ **Scheduled Jobs** | GitHub Actions cron | Automates tasks on a timer |
 | 🔒 **Secret Management** | GitHub Secrets | Keeps API keys & tokens safe |
 | 🧪 **CI/CD Pipelines** | Actions + Docker | Auto test & deploy on every push |
 | 🐳 **Docker Builds** | `docker/build-push-action` | Containerized production deployments |
 | 📦 **Dependency Updates** | Dependabot | PRs for outdated packages automatically |
 | 🏷️ **Auto Labeler** | `actions/labeler` | Labels PRs by changed file paths |
-| 🔍 **Code Quality** | flake8 / ESLint Action | Lint check on every PR |
+| 🔍 **Code Quality** | flake8 / ESLint | Lint check on every pull request |
 | 📣 **Release Drafter** | `release-drafter` | Auto-generates changelogs on release |
 
 ---
@@ -155,7 +160,7 @@ jobs:
 4. 💬 Commented on issues
 <!--END_SECTION:activity-->
 
-> *This section live-updates via the [GitHub Activity Readme Action](https://github.com/jamesgeorge007/github-activity-readme). Add the workflow above to your repo to enable it.*
+> *Activate this section by adding the [GitHub Activity Readme Action](https://github.com/jamesgeorge007/github-activity-readme) workflow to your repo.*
 
 ---
 
